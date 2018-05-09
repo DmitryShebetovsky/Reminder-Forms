@@ -1,0 +1,28 @@
+c:\users\anci_oq88\documents\visual studio 2013\Projects\Reminder\Reminder\bin\Debug\Reminder.exe.config
+c:\users\anci_oq88\documents\visual studio 2013\Projects\Reminder\Reminder\bin\Debug\Reminder.exe
+c:\users\anci_oq88\documents\visual studio 2013\Projects\Reminder\Reminder\bin\Debug\Reminder.pdb
+c:\users\anci_oq88\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.csprojResolveAssemblyReference.cache
+c:\users\anci_oq88\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+c:\users\anci_oq88\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.Cache
+c:\users\anci_oq88\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.exe
+c:\users\anci_oq88\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.pdb
+c:\users\anci_oq88\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.RemindForm.resources
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\bin\Debug\Reminder.exe.config
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\bin\Debug\Reminder.exe
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\bin\Debug\Reminder.pdb
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\obj\Debug\Reminder.csprojResolveAssemblyReference.cache
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\obj\Debug\Reminder.RemindForm.resources
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.Cache
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\obj\Debug\Reminder.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\obj\Debug\Reminder.exe
+C:\Users\Yan\Desktop\Новая папка\Reminder\Reminder\obj\Debug\Reminder.pdb
+C:\Users\Sheb_fb50\Desktop\Reminder\Reminder\bin\Debug\Reminder.exe.config
+C:\Users\Sheb_fb50\Desktop\Reminder\Reminder\obj\Debug\Reminder.exe
+C:\Users\Sheb_fb50\Desktop\Reminder\Reminder\obj\Debug\Reminder.pdb
+C:\Users\Sheb_fb50\Desktop\Reminder\Reminder\bin\Debug\Reminder.exe
+C:\Users\Sheb_fb50\Desktop\Reminder\Reminder\bin\Debug\Reminder.pdb
+C:\Users\Sheb_fb50\Desktop\Reminder\Reminder\obj\Debug\Reminder.csprojResolveAssemblyReference.cache
+C:\Users\Sheb_fb50\Desktop\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+C:\Users\Sheb_fb50\Desktop\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.Cache
+C:\Users\Sheb_fb50\Desktop\Reminder\Reminder\obj\Debug\Reminder.Reminder.resources
